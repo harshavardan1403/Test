@@ -1,0 +1,18 @@
+.banner-section{
+    background-color: dimgrey;
+    color: whitesmoke;
+    height: 100vh;
+    padding: 0;
+}
+.my-name{
+    color: rgb(142, 203, 51);
+}
+.banner-image{
+    margin-top: 20%;
+    margin-bottom: 0%;
+    height: 50%;
+    width: auto;
+}
+.banner-content{
+    margin-top: 0%;
+}
